@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2015/11/10/08/31/banner-1036483_1280.jpg)]
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEGeiULkWw7gw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715534784724?e=1731542400&v=beta&t=6VaU-8CvOe7mu_yo1X1sUKDqVlv1zShr-O2g0rUDru4)(https://www.linkedin.com/in/alaparthi-yaswanth-kiran-65aa53272/)
 <h1 align="center">Hi 👋, I'm yaswanth</h1>
 <h3 align="center">Interested in learning Web Technology</h3>
 
