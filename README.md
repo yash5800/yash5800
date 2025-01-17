@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Storing Files with a Key](https://no-log-store.onrender.com/)
 
-- 🌱 I’m currently learning **Three.js, R3F**
+- 🌱 I’m currently learning **DSA with JS,React Native**
 
-- 💬 Ask me about **API's**
+- 💬 Ask me about **Web Applications**
 
 - 📫 How to reach me **yaswanthjk580@gmai.com**
 
