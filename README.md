@@ -1,4 +1,4 @@
-[![MasterHead](./coding.jpg)
+![MasterHead](./coding.jpg)
 <h1 align="center">Hi 👋, I'm yaswanth</h1>
 <h3 align="center">Interested in learning Web Technology</h3>
 
