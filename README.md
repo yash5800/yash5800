@@ -1,6 +1,6 @@
 ![MasterHead](./coding.jpg)
 <h1 align="center">Hi 👋, I'm yaswanth</h1>
-<h3 align="center">Interested in learning Web Technology</h3>
+<h3 align="center">Interested in learning New Technology's</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash5800&label=Profile%20views&color=0e75b6&style=flat" alt="yash5800" /> </p>
 
