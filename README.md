@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash5800&label=Profile%20views&color=0e75b6&style=flat" alt="yash5800" /> </p>
 
-- 🔭 I’m currently working on [SanityHub mini cloud storage](https://sanityhub.vercel.app/)
+- 🔭 I’m currently working on <a href='https://sanityhub.vercel.app/' target="_blank">SanityHub Mini Cloud ☁️ Storage</a>
 
 - 🌱 I’m currently learning **DSA with JS,React Native**
 
-- ✅ Checkout my portfolio [visit](https://yash5800.github.io/R3F_Portfolio/)
+- ✅ Checkout my portfolio <a href='https://yash5800.github.io/R3F_Portfolio/' target="_blank">Lookout</a>
 
 - 💬 Ask me about **Web Applications**
 
