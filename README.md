@@ -1,86 +1,68 @@
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║   ██████╗  █████╗ ██████╗ ██╗  ██╗    ████████╗███████╗███████╗██╗  ██╗       ║
-║   ██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝    ╚══██╔══╝██╔════╝██╔════╝██║  ██║       ║
-║   ██║  ██║███████║██████╔╝█████╔╝        ██║   █████╗  ███████╗███████║       ║
-║   ██║  ██║██╔══██║██╔══██╗██╔═██╗        ██║   ██╔══╝  ╚════██║██╔══██║       ║
-║   ██████╔╝██║  ██║██║  ██║██║  ██╗       ██║   ███████╗███████║██║  ██║       ║
-║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝       ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝       ║
-║                                                                               ║
-║   ┌─────────────────────────────────────────────────────────────────────┐     ║
-║   │  👤 Alaparthi Yaswanth Kiran                                       │     ║
-║   │  💻 Full-Stack Developer & AI Engineer                             │     ║
-║   │  📍 Andhra Pradesh, India                                          │     ║
-║   │  📧 yaswanthjk580@gmail.com                                        │     ║
-║   └─────────────────────────────────────────────────────────────────────┘     ║
-║                                                                               ║
+║  ██████╗  █████╗ ██████╗ ██╗  ██╗    ████████╗███████╗███████╗██╗  ██╗        ║
+║  ██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝    ╚══██╔══╝██╔════╝██╔════╝██║  ██║        ║
+║  ██║  ██║███████║██████╔╝█████╔╝        ██║   █████╗  ███████╗███████║        ║
+║  ██║  ██║██╔══██║██╔══██╗██╔═██╗        ██║   ██╔══╝  ╚════██║██╔══██║        ║
+║  ██████╔╝██║  ██║██║  ██║██║  ██╗       ██║   ███████╗███████║██║  ██║        ║
+║  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝       ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝        ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║  👤 Alaparthi Yaswanth Kiran                                                   ║
+║  💻 Full-Stack Developer & AI Engineer                                        ║
+║  📍 Andhra Pradesh, India                                                     ║
+║  📧 yaswanthjk580@gmail.com                                                   ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║  🖥️  SYSTEM CONFIG                                                            ║
+║  ┌───────────────────────────────────────────────────────────────────────────┐║
+║  │  OS:          Fedora Linux 44 (Workstation Edition)                      │║
+║  │  Kernel:      Linux 7.0.9-205.fc44.x86_64                               │║
+║  │  Shell:       bash 5.2                                                   │║
+║  │  Terminal:    Hermes Agent CLI                                           │║
+║  │  CPU:         x86_64 Architecture                                        │║
+║  │  Memory:      7.4 GB RAM                                                 │║
+║  │  Storage:     NVMe SSD 243 GB (29% used)                                │║
+║  │  Uptime:      Building cool stuff since 2024                             │║
+║  └───────────────────────────────────────────────────────────────────────────┘║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
-```
-
-```bash
-# ╔═══════════════════════════════════════════════════════════════╗
-# ║                    🖥️  SYSTEM CONFIG                         ║
-# ╚═══════════════════════════════════════════════════════════════╝
-
-$ neofetch
-
-  ┌─────────────────────────────────────────────────────────┐
-  │  OS:          Fedora Linux 44 (Workstation Edition)     │
-  │  Kernel:      Linux 7.0.9-205.fc44.x86_64              │
-  │  Shell:       bash 5.2                                  │
-  │  Terminal:    Hermes Agent CLI                          │
-  │  CPU:         AMD/Intel (x86_64)                       │
-  │  Memory:      7.4 GB                                    │
-  │  Disk:        NVMe SSD 243 GB (29% used)               │
-  │  Resolution:  Full Stack Developer Mode                 │
-  │  Theme:       AI-Powered Developer Setup                │
-  └─────────────────────────────────────────────────────────┘
 
 $ whoami
 > yash5800
-
-$ cat /etc/os-release | grep PRETTY_NAME
-> "Fedora Linux 44"
-
-$ uptime
-> Building cool stuff since 2024
 ```
 
 ---
 
 ```bash
 # ╔═══════════════════════════════════════════════════════════════╗
-# ║                    📁 PROJECT DIRECTORY                      ║
+# ║                 📁  PROJECT DIRECTORY                        ║
 # ╚═══════════════════════════════════════════════════════════════╝
 
 $ ls -la ~/projects/
 
   📂 production/          ✅ Live & Running
-  ├── quickbg.dev         🎨 AI Background Remover
-  │                       • Free for everyone, credit system
-  │                       • 85+ upvotes on r/DigitalEscapeTools 🔥
-  │                       • 10+ upvotes on Reddit post
-  │                       • Built with modern AI models
+  ├── 🟢 quickbg.dev          AI Background Remover
+  │                          • Free for everyone, credit system
+  │                          • 85+ upvotes on r/DigitalEscapeTools 🔥
+  │                          • 10+ upvotes on Reddit post
+  │                          • Built with modern AI models
   │
-  └── sanityhub.vercel.app ☁️ Mini Cloud Storage
-                          • Built for students (3rd year project)
-                          • File storage platform
+  └── 🟢 sanityhub.vercel.app  Mini Cloud Storage
+                                 • Built for students (3rd year project)
+                                 • File storage platform
 
 
   📂 local/               💻 Built & Running Locally
-  ├── Saferaho            🔒 Encrypted storage app (privacy-first)
-  ├── LibraryAI           📚 AI-powered library management
-  ├── GroceryAI           🛒 AI-integrated grocery management
-  ├── Music App           🎵 Music streaming & playback
-  └── misc                🔧 Various small projects & experiments
+  ├── 🔒 Saferaho             Encrypted storage app (privacy-first)
+  ├── 📚 LibraryAI            AI-powered library management
+  ├── 🛒 GroceryAI            AI-integrated grocery management
+  ├── 🎵 Music App            Music streaming & playback
+  └── 🔧 misc                 Various small projects & experiments
 ```
 
 ---
 
 ```bash
 # ╔═══════════════════════════════════════════════════════════════╗
-# ║                    🛠️  TECH STACK                             ║
+# ║                 🛠️  TECH STACK                               ║
 # ╚═══════════════════════════════════════════════════════════════╝
 
 $ cat skills.json
@@ -98,7 +80,7 @@ $ cat skills.json
 
 ```bash
 # ╔═══════════════════════════════════════════════════════════════╗
-# ║                    🧠 CURRENTLY LEARNING                      ║
+# ║                 🧠 CURRENTLY LEARNING                        ║
 # ╚═══════════════════════════════════════════════════════════════╝
 
 $ cat learning.txt
