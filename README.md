@@ -1,5 +1,3 @@
-<div align="center">
-
 <!-- ═══════════════════════════════════════════ -->
 <!--  ██╗   ██╗ █████╗ ███████╗██╗  ██╗         -->
 <!--  ╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║         -->
@@ -38,15 +36,11 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=yash5800&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS"/>
 
-</div>
-
 ---
 
 <!-- ═══════════════════════════════════════════ -->
 <!-- WHOAMI TERMINAL                           -->
 <!-- ═══════════════════════════════════════════ -->
-
-<div align="center">
 
 ```bash
 ╭─────────────────────────────────────────────────────────────────────╮
@@ -54,8 +48,8 @@
 │   $ whoami                                                          │
 │   ▸ yash5800                                                        │
 │                                                                     │
-│   $ id                                                              │
-│   ▸ uid=1000(dev) gid=1000(dev) groups=1000(dev),wheel,docker       │
+│   $ id                                                             │
+│   ▸ uid=1000(dev) gid=1000(dev) groups=1000(dev),wheel,docker      │
 │                                                                     │
 │   $ cat /etc/profile.d/yash.conf                                    │
 │   ┌─────────────────────────────────────────────────────────────┐   │
@@ -67,16 +61,14 @@
 │   │  UPTIME="Coding since 2024 🚀"                              │   │
 │   └─────────────────────────────────────────────────────────────┘   │
 │                                                                     │
-│   $ echo $SHELL                                                     │
-│   ▸ /bin/bash                                                       │
+│   $ echo $SHELL                                                    │
+│   ▸ /bin/bash                                                      │
 │                                                                     │
-│   $ uptime                                                          │
-│   ▸ 0  days, 00:00, load average: 0.42, 0.38, 0.31                  │
+│   $ uptime                                                         │
+│   ▸ 0  days, 00:00, load average: 0.42, 0.38, 0.31                │
 │                                                                     │
 ╰─────────────────────────────────────────────────────────────────────╯
 ```
-
-</div>
 
 ---
 
@@ -131,17 +123,13 @@
 <!-- FEATURED PROJECT                         -->
 <!-- ═══════════════════════════════════════════ -->
 
-<div align="center">
-
 ## 🚀 Featured Project
-
-<br/>
 
 <a href="https://quickbg.dev">
 <img src="https://img.shields.io/badge/🌐_LIVE-quickbg.dev-00FF41?style=for-the-badge&logoColor=black"/>
 </a>
 
-<br/><br/>
+<br/>
 
 ```bash
 ╭──────────────────────────────────────────────────────╮
@@ -160,8 +148,6 @@
 │  ▸ ✅ Users: Growing 📈                              │
 ╰──────────────────────────────────────────────────────╯
 ```
-
-</div>
 
 ---
 
@@ -197,8 +183,6 @@
 
 ## ⚡ Tech Stack
 
-<div align="center">
-
 | | |
 |---|---|
 | **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,python,c,java&perline=5"/> |
@@ -207,8 +191,6 @@
 | **AI/ML** | `LangGraph` · `Agentic AI` · `LLMs` · `RAG` · `TTS` |
 | **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=2"/> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,linux&perline=5"/> |
-
-</div>
 
 ---
 
@@ -250,8 +232,6 @@ $ cat /home/dev/learning-path.md
 <!-- GITHUB STATS                             -->
 <!-- ═══════════════════════════════════════════ -->
 
-<div align="center">
-
 ## 📊 GitHub Analytics
 
 <!-- Stats -->
@@ -265,27 +245,19 @@ $ cat /home/dev/learning-path.md
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash5800&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=adbac7" height="150"/>
 
-</div>
-
 ---
 
 <!-- ═══════════════════════════════════════════ -->
 <!-- ACTIVITY GRAPH                           -->
 <!-- ═══════════════════════════════════════════ -->
 
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash5800&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true&area=true" width="95%"/>
-
-</div>
 
 ---
 
 <!-- ═══════════════════════════════════════════ -->
 <!-- FOOTER                                   -->
 <!-- ═══════════════════════════════════════════ -->
-
-<div align="center">
 
 ```bash
 ╭──────────────────────────────────────────────────────╮
@@ -304,5 +276,3 @@ $ cat /home/dev/learning-path.md
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
 
 <sub>⚡ Built with ❤️ and ☕ by <a href="https://github.com/yash5800"><b>yash5800</b></a> • Powered by <a href="https://hermes-agent.nousresearch.com">Hermes Agent</a></sub>
-
-</div>
