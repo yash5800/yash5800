@@ -254,9 +254,11 @@ $ cat /home/dev/learning-path.md
 
 ## 📊 GitHub Analytics
 
-<!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=yash5800&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=adbac7&count_private=true&include_all_commits=true" height="170"/>
 
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yash5800&theme=github_dark_dimmed&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&sideLabels=adbac7" height="170"/>
+
+<br/>
 
 </div>
 
