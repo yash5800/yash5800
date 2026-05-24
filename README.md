@@ -308,6 +308,6 @@ $ cat /home/dev/learning-path.md
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
 
-<sub>⚡ Built with ❤️ and ☕ by <a href="https://github.com/yash5800"><b>yash5800</b></a> • Powered by <a href="https://hermes-agent.nousresearch.com">Hermes Agent</a></sub>
+<sub>⚡ Built with ❤️ and ☕ by <a href="https://github.com/yash5800"><b>yash5800</b></a>
 
 </div>
