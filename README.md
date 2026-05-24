@@ -54,8 +54,8 @@
 │   $ whoami                                                          │
 │   ▸ yash5800                                                        │
 │                                                                     │
-│   $ id                                                             │
-│   ▸ uid=1000(dev) gid=1000(dev) groups=1000(dev),wheel,docker      │
+│   $ id                                                              │
+│   ▸ uid=1000(dev) gid=1000(dev) groups=1000(dev),wheel,docker       │
 │                                                                     │
 │   $ cat /etc/profile.d/yash.conf                                    │
 │   ┌─────────────────────────────────────────────────────────────┐   │
@@ -67,11 +67,11 @@
 │   │  UPTIME="Coding since 2024 🚀"                              │   │
 │   └─────────────────────────────────────────────────────────────┘   │
 │                                                                     │
-│   $ echo $SHELL                                                    │
-│   ▸ /bin/bash                                                      │
+│   $ echo $SHELL                                                     │
+│   ▸ /bin/bash                                                       │
 │                                                                     │
-│   $ uptime                                                         │
-│   ▸ 0  days, 00:00, load average: 0.42, 0.38, 0.31                │
+│   $ uptime                                                          │
+│   ▸ 0  days, 00:00, load average: 0.42, 0.38, 0.31                  │
 │                                                                     │
 ╰─────────────────────────────────────────────────────────────────────╯
 ```
