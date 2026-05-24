@@ -12,7 +12,7 @@
 │   Developer • AI Builder • Open Source                          │
 │                                                                 │
 │   yaswanthjk580@gmail.com                                       │
-│   Hyderabad, India                                              │
+│   Andhra Pradesh, India                                             │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -30,15 +30,14 @@ $ cat about.txt
 $ ls projects/
 > quickbg.dev          — AI Background Remover (free for all)
 > sanityhub.vercel.app — Mini Cloud Storage for students
-> businessbots         — Customer service bots (WhatsApp, Telegram, Instagram)
 
 $ cat skills.txt
 > Languages:     JavaScript, TypeScript, Python, C, Java
-> Frontend:      React, Next.js, HTML5, CSS3, Tailwind, Framer Motion
+> Frontend:      React, Next.js, HTML5, CSS3, Tailwind, GSAP, Framer Motion
 > Backend:       Node.js, Express, Flask, REST APIs
 > AI/ML:         LangGraph, Agentic AI, LLMs, RAG pipelines, TTS models
 > Tools:         Git, GitHub, Vercel, Figma, Linux
-> Databases:     PostgreSQL, MongoDB, Firebase
+> Databases:     PostgreSQL, MongoDB
 ```
 
 ---
@@ -67,7 +66,6 @@ $ cat skills.txt
 |---------|-------------|------|
 | **QuickBG** | AI Background Remover with credit system — free for all | [quickbg.dev](https://quickbg.dev) |
 | **SanityHub** | Mini Cloud Storage built for students (3rd year project) | [sanityhub.vercel.app](https://sanityhub.vercel.app) |
-| **BusinessBots** | Customer service bots for WhatsApp, Telegram, Instagram | In Progress |
 
 ---
 
@@ -96,7 +94,7 @@ $ cat skills.txt
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,flask,html,css,tailwind,figma,git,github,vercel,linux,postgres,mongodb,firebase&perline=9" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,flask,html,css,tailwind,gsap,figma,git,github,vercel,linux,postgres,mongodb&perline=9" />
 
 </div>
 
