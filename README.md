@@ -29,11 +29,21 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/alaparthi-yaswanth-kiran-65aa53272/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/yaswanthalaparthi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.reddit.com/u/Dark_Daniel_/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-<a href="https://github.com/yash5800"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:yaswanthjk580@gmail.com"><img src="https://img.shields.io/email-redirect?color=D14836&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/alaparthi-yaswanth-kiran-65aa53272/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/yaswanthalaparthi">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.reddit.com/u/Dark_Daniel_/">
+  <img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
+<a href="https://github.com/yash5800">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:yaswanthjk580@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=yash5800&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS"/>
