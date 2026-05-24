@@ -29,7 +29,7 @@ $ cat about.txt
 $ ls -la projects/
 
 📁 production/          — Live & running
-├── quickbg.dev         — AI Background Remover (free, credit system, 60+ Reddit upvotes)
+├── quickbg.dev         — AI Background Remover (free, credit system, 85+ & 10+ Reddit upvotes)
 └── sanityhub.vercel.app — Mini Cloud Storage for students
 
 📁 local/               — Built & running locally
@@ -52,10 +52,11 @@ $ cat skills.txt
 
 ### 🚀 Featured Project
 
-**[quickbg.dev](https://quickbg.dev)** — AI-Powered Background Remover
+**🚀 [quickbg.dev](https://quickbg.dev)** — AI-Powered Background Remover
 - Free for everyone, backed by a credit system
-- 60+ upvotes on Reddit 🔥
+- 🔥 85+ upvotes on [r/DigitalEscapeTools](https://www.reddit.com/r/DigitalEscapeTools/s/xhxRpo17tR) & 10+ on another Reddit post
 - Built with modern AI models, production-ready deployment
+- Reddit: [u/Dark_Daniel_](https://www.reddit.com/u/Dark_Daniel_/s/vlyiJVyxmz)
 
 ---
 
@@ -101,6 +102,9 @@ $ cat skills.txt
 </a>
 <a href="mailto:yaswanthjk580@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.reddit.com/u/Dark_Daniel_/" target="_blank">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
 </a>
 <a href="https://github.com/yash5800" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
